@@ -1,4 +1,3 @@
-// style text, lists, images, headers, quotes, code, and extras
 **CPE 322** 
 **Mark Tuhacek**
 
