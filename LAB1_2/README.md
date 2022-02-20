@@ -1,3 +1,6 @@
+## LAB 1 and 2
+## Command Line
+
 **hostname:
 ![](imageuploads/2022-02-19-184326_1600x836_scrot.png)
 env:
