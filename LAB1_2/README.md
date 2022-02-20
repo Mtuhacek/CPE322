@@ -1,4 +1,4 @@
-hostname:
+**hostname:
 ![](imageuploads/2022-02-19-184326_1600x836_scrot.png)
 env:
 ![](imageuploads/2022-02-19-184931_1600x900_scrot.png)
@@ -18,5 +18,5 @@ uname -a, ifconfig:
 ![](imageuploads/2022-02-19-191919_1600x836_scrot.png)
 ping localhost:
 ![](imageuploads/2022-02-19-192208_1600x900_scrot.png)
-netstat:
+netstat:**
 ![](imageuploads/2022-02-19-192241_1600x900_scrot.png)
