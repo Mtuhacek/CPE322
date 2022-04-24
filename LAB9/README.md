@@ -1,6 +1,6 @@
 # LAB 9
 # YANG
-**Install and Copy:
+**Installation:
 ![](imageuploads/installyang(1).png)
 ![](imageuploads/yang(2).png)
 ![](imageuploads/yang(3).png)
@@ -16,7 +16,9 @@
 ![](imageuploads/yang(13).png)
 ![](imageuploads/yang(14).png)
 ![](imageuploads/yang(15).png)
+Intrusion detec:
 ![](imageuploads/intrusiondetec(16).png)
+Intrusion detec gimp:
 ![](imageuploads/intrusiondetecgimp(17).png)
 Data output:**
 ![](imageuploads/yang(18).png)
