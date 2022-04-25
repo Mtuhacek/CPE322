@@ -20,5 +20,5 @@ Intrusion detec:
 ![](imageuploads/intrusiondetec(16).png)
 Intrusion detec gimp:
 ![](imageuploads/intrusiondetecgimp(17).png)
-Data output:**
+**
 ![](imageuploads/yang(18).png)
