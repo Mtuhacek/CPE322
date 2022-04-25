@@ -1,6 +1,6 @@
 # LAB 8
 # Data Analysis
-**Installation:
+**Installation:**
 ![](imageuploads/installpackages(1).png)
 ![](imageuploads/installpackages(2).png)
 ![](imageuploads/installpackages(3).png)
@@ -34,10 +34,10 @@
 ![](imageuploads/kerasfirstnetwork(31).png)
 ![](imageuploads/titanic1(32).png)
 ![](imageuploads/titanic2(33).png)
-![](imageuploads/8b1.png)
-![](imageuploads/8b2.png)
-![](imageuploads/8b3.png)
-![](imageuploads/8b4.png)
-![](imageuploads/8b5.png)
-![](imageuploads/8b6.png)
-![](imageuploads/8b7.png)
+![](imageuploads/Lab8b-1.png)
+![](imageuploads/Lab8b-2.png)
+![](imageuploads/Lab8b-3.png)
+![](imageuploads/Lab8b-4.png)
+![](imageuploads/Lab8b-5.png)
+![](imageuploads/Lab8b-6.png)
+![](imageuploads/Lab8b-7.png)
