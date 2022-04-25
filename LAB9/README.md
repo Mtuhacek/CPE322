@@ -18,7 +18,6 @@
 ![](imageuploads/yang(15).png)
 Intrusion detec:
 ![](imageuploads/intrusiondetec(16).png)
-Intrusion detec gimp:
+Intrusion detec gimp:**
 ![](imageuploads/intrusiondetecgimp(17).png)
-**
 ![](imageuploads/yang(18).png)
