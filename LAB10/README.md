@@ -1,6 +1,5 @@
 # LAB 10
 # Blockchain
-**Installation:
 ![](imageuploads/hashvalue(1).png)
 ![](imageuploads/hash(2).png)
 ![](imageuploads/snakecoin(3).png)
@@ -16,7 +15,7 @@
 ![](imageuploads/blockmined(13).png)
 ![](imageuploads/blockmined(14).png)
 ![](imageuploads/serverrunning(15).png)
-Server running:
+**Server running:
 ![](imageuploads/serverrunning(16).png)
 PyOTA:**
 ![](imageuploads/PyOTA(17).png)
